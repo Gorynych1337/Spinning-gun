@@ -1,0 +1,4 @@
+repository "Spinning gun@Gorynych_0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
